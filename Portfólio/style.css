@@ -1,0 +1,54 @@
+   
+   html, body {  
+    margin: 0;  
+    padding: 0;  
+}  
+
+header {
+    background-color: rgb(125, 163, 239);  
+    color: rgb(12, 10, 11);  
+    height: 60px;  
+    width: 100%;  
+    position: fixed; }
+
+#menu {  
+    float: right;  
+    margin-right: 5%;  
+    list-style: none;  
+    margin-top: 0px;  
+}  
+li {  
+    float: left;  
+    padding: 20 10 20 10;  
+}  
+li:hover {  
+    background-color: blue;  
+
+}  
+   
+   
+   body { padding: 0;
+               margin: 0; } 
+               
+              form { font-family: Verdana,Tahoma,sans-serif;
+               font-size: 150px; 
+               background-color: rgb(126, 131, 157);
+                max-width: 500px; }
+                 h1 { 
+                    margin-bottom: 20px; margin-left: 20px; 
+                 color: white; 
+                 text-shadow: 5px 5px 5px black;
+                 }
+                
+                textarea {
+    width: 400px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+}
+ 
+form label {
+    margin-left: 20px;
+    color: blue;
+    font-weight: bold;
+}
